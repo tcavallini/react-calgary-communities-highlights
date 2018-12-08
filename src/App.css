@@ -1,0 +1,34 @@
+body {
+  background: #fff !important;
+}
+
+#mount-point {
+  padding-top: 20px;
+  margin: auto;
+}
+
+#mount-point input {
+  line-height: 2;
+  font-size: 18px;
+  height: auto;
+  padding-left: 20px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+#mount-point ul {
+  margin: 0;
+}
+
+#mount-point ul li {
+  list-style: none;
+  border: 0px solid #ccc;
+  margin-top: 1px;
+  line-height: 2;
+  padding: 5px 5px;
+  background: #e1e3de;
+  margin-left: -39px;
+}
+
+.bgBege {
+  background: #e1e3de;
+}
