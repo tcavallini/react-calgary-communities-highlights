@@ -1,4 +1,4 @@
-![alt text](https://sad-easley-140763.netlify.com/logo.png)
+![alt text](https://calgary-communities-highlights.netlify.com/logo.png)
 
 ## Calgary Communities Highlights
 
@@ -13,4 +13,4 @@ The purpose of this project is to show the information about Crime Statistics, W
 Jonathan Gourlay 
 
 ## Demo
-[You can see this project here - https://goo.gl/fULPtY](https://goo.gl/fULPtY).
+[You can see this project here](https://calgary-communities-highlights.netlify.com/).
